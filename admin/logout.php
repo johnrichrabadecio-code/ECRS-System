@@ -1,0 +1,1 @@
+<?php require __DIR__.'/../includes/bootstrap.php'; unset($_SESSION['admin_id']); redirect(base_url('admin/login.php')); ?>

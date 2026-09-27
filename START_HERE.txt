@@ -1,0 +1,22 @@
+ECRS - SIMPLE XAMPP START
+========================
+
+1. Put this whole ECRS_System folder here:
+   C:\xampp\htdocs\ECRS_System
+
+2. Start Apache and MySQL in XAMPP.
+
+3. FIRST TIME ONLY, open:
+   http://localhost/ECRS_System/install.php
+
+4. After installation, open:
+   http://localhost/ECRS_System/
+
+5. Admin login/page:
+   http://localhost/ECRS_System/admin/login.php
+   After login, admin dashboard is:
+   http://localhost/ECRS_System/admin/index.php
+
+Do NOT open C:\xampp\htdocs\ECRS_System directly in Chrome.
+Do NOT use file:/// paths.
+Use http://localhost/ECRS_System/ instead.
